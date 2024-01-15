@@ -9,4 +9,4 @@ For this code version 8.306 was used.
 
 ## Usage
 
-After installing Pythia8, you need to replace the main41.cc file in the examples folder with the code in `main41_Lam.c`. Then, you can compile the code using `make main41` and run it using `./main41`. The code will generate four HepMC files, each containing events with a Lambda or anti-Lambda. The code will stop when the desired number of lambdas produced (Lcount) is reached. You can modify the value of Lcount in the code to change the number of events you want to generate.
+After installing Pythia8, you need to replace the main41.cc file in the examples folder with the code in `main41_Lam.cc`. Then, you can compile the code using `make main41` and run it using `./main41`. The code will generate four HepMC files, each containing events with a Lambda or anti-Lambda. The code will stop when the desired number of lambdas produced (Lcount) is reached. You can modify the value of Lcount in the code to change the number of events you want to generate.
