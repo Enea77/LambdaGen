@@ -1,12 +1,11 @@
-Sure, I can rewrite the readme file for you. Here is how it would look like on GitHub:
-
 # PYTHIA8 Lambda Production
 
 This code simulates proton-electron collisions using Pythia8 and saves in HepMC format only the events where a Lambda or anti-Lambda is produced.
 
 ## Installation
 
-To run this code, you need to install [Pythia8](https://pythia.org/), a program for the generation of high-energy physics collision events. You can download the latest version of Pythia8 from [here](https://pythia.org/download/pythia83/pythia8306.tgz) and follow the installation instructions on the front page. Alternatively, you can use pip to install Pythia8 via Python interface, as described [here](https://pypi.org/project/pythia8/) or [here](https://github.com/scikit-hep/pythia8). For this code version 8.306 was used. 
+To run this code, you need to install [Pythia8](https://pythia.org/), a program for the generation of high-energy physics collision events. You can download the latest version of Pythia8 from [here](https://pythia.org/download/pythia83/pythia8306.tgz) and follow the installation instructions on the front page. 
+For this code version 8.306 was used. 
 
 ## Usage
 
